@@ -1,0 +1,53 @@
+#main{
+    background-color: #eee;
+  }
+  #title{
+    padding-top: 25px;
+    text-align: center;
+  }
+  
+  #image{ 
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding-top: 25px;
+  }
+  
+  #img-caption{
+    padding-bottom: 25px;
+    text-align:center;
+  }
+  #img-div {
+    background: white;
+  }
+  
+  ul{
+    text-align: left;
+    margin:0 250px 0 250px;
+  }
+  h2{
+    text-align:center;
+  }
+  li{
+    margin:25px;
+  }
+  
+  #quote{
+    text-align: center;
+    font-size: 35px;
+    padding-bottom:0;
+    margin-bottom: 10px;
+  }
+  #owner{
+    padding-left: 550px;
+    font-size:20px;
+  }
+  
+  p{
+    text-align:center;
+    padding-top:60px;
+    padding-bottom:25px;
+    font-size:20px;
+  }
+  
